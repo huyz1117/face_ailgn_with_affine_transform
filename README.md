@@ -4,7 +4,7 @@
 
 - 从数学角度角度来说，仿射变换就是一次线性变换加一次平移变换，用公式表示为:
   $$
-  \stackrel{\rightarrow}{q} = A\stackrel{\rightarrow}{p} + \stackrel{\rightarrow}{b}
+  \stackrel{\rightarrow}{y} = A\stackrel{\rightarrow}{x} + \stackrel{\rightarrow}{b}
   $$
 
 
